@@ -1,1 +1,1 @@
-# all kinds of graphs in R
+# All kinds of graphs in R
